@@ -1,5 +1,8 @@
 _repo: The-old-man-s-guide-to-health-and-longer-life-b-With-rules-for-diet-exercise-and-physic-for-p__70024
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70024-h/images/cover.jpg
 creator:
   author:
     agent_name: Hill, John A. (John Alexander)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '8401'
     url: http://www.gutenberg.org/2009/agents/8401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70024#The-old-man-s-guide-to-health-and-longer-life-b-With-rules-for-diet-exercise-and-physic-for-p_
 gutenberg_issued: '2023-02-12'
 identifiers:
   gutenberg: '70024'
